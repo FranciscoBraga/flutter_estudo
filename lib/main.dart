@@ -107,7 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
             const Text(
               'Aperte o botão várias vezes:',
-              style: TextStyle(color: Colors.cyan,fontSize: 20),
+              style: TextStyle(color: Colors.cyan,fontSize: 24),
             ),
             Text(
               '$_counter',
